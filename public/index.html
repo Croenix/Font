@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111019">
+    <title>Typeface — Font Catalog</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="/" aria-label="Typeface home">
+          <span class="brand-mark">f.</span>
+          <span>typeface<span class="brand-dot">.</span></span>
+        </a>
+        <div class="topbar-status"><span class="status-dot"></span><span id="watch-status">Watching Fonts</span></div>
+      </header>
+
+      <section class="hero">
+        <p class="eyebrow">YOUR TYPE LIBRARY, DECODED</p>
+        <h1>A home for every<br><span>typeface.</span></h1>
+        <p class="hero-copy">Browse your collection, explore the details, and find the right voice for every project.</p>
+        <div class="stats" aria-label="Font library summary">
+          <div class="stat"><strong id="family-count">—</strong><span>families</span></div>
+          <div class="stat-divider"></div>
+          <div class="stat"><strong id="font-count">—</strong><span>font files</span></div>
+          <div class="stat-divider"></div>
+          <div class="stat"><strong id="category-count">—</strong><span>categories</span></div>
+        </div>
+      </section>
+
+      <section class="catalog" aria-label="Font collection">
+        <div class="catalog-heading">
+          <div>
+            <p class="eyebrow">THE COLLECTION</p>
+            <h2>Explore type</h2>
+          </div>
+          <label class="search-wrap">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m16 16 4 4"></path></svg>
+            <input id="search" type="search" placeholder="Search fonts..." autocomplete="off">
+            <kbd>/</kbd>
+          </label>
+        </div>
+
+        <div class="toolbar">
+          <div id="category-filters" class="filters" role="group" aria-label="Filter by category"></div>
+          <label class="preview-control">
+            <span>Preview</span>
+            <input id="preview-text" type="text" maxlength="60" value="The quick brown fox" aria-label="Preview text">
+          </label>
+        </div>
+
+        <p id="results-label" class="results-label"></p>
+        <div id="font-grid" class="font-grid" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <span class="empty-glyph">Aa</span>
+          <h3>No typefaces found</h3>
+          <p>Try a different search or category, or add fonts to your Fonts folder.</p>
+        </div>
+        <div id="error-state" class="error-state" hidden></div>
+      </section>
+
+      <footer>
+        <span>Made for the love of type.</span>
+        <span id="updated-at"></span>
+      </footer>
+    </main>
+    <script src="/app.js" defer></script>
+  </body>
+</html>

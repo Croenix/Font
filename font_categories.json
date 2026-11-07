@@ -1,0 +1,2954 @@
+{
+  "generated_at": "2026-11-07T16:59:39.509Z",
+  "total_families": 68,
+  "total_files": 107,
+  "categories": {
+    "Serif": [
+      {
+        "family_name": "Miller",
+        "category": "Serif",
+        "main_font_file": "Miller.ttf",
+        "variants": [
+          {
+            "file_name": "Miller.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Miller-Regular",
+            "version": "Version 1.000;August 26, 2026;FontCreator 15.0.0.3048 64-bit",
+            "designer": "Achmad Iswanjaya",
+            "copyright": "Copyright © 2026 by Funtype Co.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      }
+    ],
+    "Sans-Serif": [],
+    "Monospace": [],
+    "Display / Decorative": [
+      {
+        "family_name": "Aaksaraan Rania",
+        "category": "Display / Decorative",
+        "main_font_file": "AaksaraanRania.otf",
+        "variants": [
+          {
+            "file_name": "AaksaraanRania.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "AaksaraanRania-Regular",
+            "version": "Version 1.000",
+            "designer": "",
+            "copyright": "",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "AaksaraanRania.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "AaksaraanRania-Regular",
+            "version": "Version 1.000",
+            "designer": "",
+            "copyright": "",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Armelie",
+        "category": "Display / Decorative",
+        "main_font_file": "Armelie-Regular.otf",
+        "variants": [
+          {
+            "file_name": "Armelie-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Armelie-Regular",
+            "version": "Version 1.000;Glyphs 3.4 (3414)",
+            "designer": "Leny Parlina",
+            "copyright": "Copyright © 2025 by Brandsemut All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Aurelise",
+        "category": "Display / Decorative",
+        "main_font_file": "Aurelise-Regular.otf",
+        "variants": [
+          {
+            "file_name": "Aurelise-Thin.otf",
+            "style": "Thin",
+            "weight": 100,
+            "is_italic": false,
+            "postscript_name": "Aurelise-Thin",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-ThinItalic.otf",
+            "style": "Thin Italic",
+            "weight": 100,
+            "is_italic": true,
+            "postscript_name": "Aurelise-ThinItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-ExtraLight.otf",
+            "style": "Extra Light",
+            "weight": 200,
+            "is_italic": false,
+            "postscript_name": "Aurelise-ExtraLight",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-ExtraLightItalic.otf",
+            "style": "Extra Light Italic",
+            "weight": 200,
+            "is_italic": true,
+            "postscript_name": "Aurelise-ExtraLightItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-Light.otf",
+            "style": "Light",
+            "weight": 300,
+            "is_italic": false,
+            "postscript_name": "Aurelise-Light",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-LightItalic.otf",
+            "style": "Light Italic",
+            "weight": 300,
+            "is_italic": true,
+            "postscript_name": "Aurelise-LightItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Aurelise-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-Italic.otf",
+            "style": "Italic",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Aurelise-Italic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-Medium.otf",
+            "style": "Medium",
+            "weight": 500,
+            "is_italic": false,
+            "postscript_name": "Aurelise-Medium",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-MediumItalic.otf",
+            "style": "Medium Italic",
+            "weight": 500,
+            "is_italic": true,
+            "postscript_name": "Aurelise-MediumItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-SemiBold.otf",
+            "style": "Semi Bold",
+            "weight": 600,
+            "is_italic": false,
+            "postscript_name": "Aurelise-SemiBold",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-SemiBoldItalic.otf",
+            "style": "Semi Bold Italic",
+            "weight": 600,
+            "is_italic": true,
+            "postscript_name": "Aurelise-SemiBoldItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-Bold.otf",
+            "style": "Bold",
+            "weight": 700,
+            "is_italic": false,
+            "postscript_name": "Aurelise-Bold",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-BoldItalic.otf",
+            "style": "Bold Italic",
+            "weight": 700,
+            "is_italic": true,
+            "postscript_name": "Aurelise-BoldItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-ExtraBold.otf",
+            "style": "Extra Bold",
+            "weight": 800,
+            "is_italic": false,
+            "postscript_name": "Aurelise-ExtraBold",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-ExtraBoldItalic.otf",
+            "style": "Extra Bold Italic",
+            "weight": 800,
+            "is_italic": true,
+            "postscript_name": "Aurelise-ExtraBoldItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-Heavy.otf",
+            "style": "Heavy",
+            "weight": 900,
+            "is_italic": false,
+            "postscript_name": "Aurelise-Heavy",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Aurelise-HeavyItalic.otf",
+            "style": "Heavy Italic",
+            "weight": 900,
+            "is_italic": true,
+            "postscript_name": "Aurelise-HeavyItalic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Bailon",
+        "category": "Display / Decorative",
+        "main_font_file": "Bailon-Regular.ttf",
+        "variants": [
+          {
+            "file_name": "Bailon-Regular.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Bailon-Regular",
+            "version": "Version 1.000",
+            "designer": "",
+            "copyright": "Typeface © Zafira Type 2026. All Rights Reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Baleday",
+        "category": "Display / Decorative",
+        "main_font_file": "Baleday.otf",
+        "variants": [
+          {
+            "file_name": "Baleday.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Baleday",
+            "version": "Version 1.000",
+            "designer": "Khurasan",
+            "copyright": "Copyright (c) 2026 by Khurasan. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Ballmain",
+        "category": "Display / Decorative",
+        "main_font_file": "Ballmain.otf",
+        "variants": [
+          {
+            "file_name": "Ballmain.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "BallmainRegular",
+            "version": "Version 1.170;Fontself Maker 3.5.8",
+            "designer": "Aveni Yuanita",
+            "copyright": "Copyrighted (c) 2021 By Aveni Letter Type (Aveni Yuanita /aveniyuanita.fontdesigner@gmail.com). All rights reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Ballmain.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "BallmainRegular",
+            "version": "Version 1.170;Fontself Maker 3.5.8",
+            "designer": "Aveni Yuanita",
+            "copyright": "Copyrighted (c) 2021 By Aveni Letter Type (Aveni Yuanita /aveniyuanita.fontdesigner@gmail.com). All rights reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Bone Dust",
+        "category": "Display / Decorative",
+        "main_font_file": "Bone Dust.otf",
+        "variants": [
+          {
+            "file_name": "Bone Dust.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "BoneDust",
+            "version": "Version 1.00 September 26, 2026, initial release",
+            "designer": "",
+            "copyright": "Copyright © 2026 by Seemly Fonts. All Rights Reserved.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Bone Dust.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "BoneDust",
+            "version": "Version 1.00 September 26, 2026, initial release",
+            "designer": "",
+            "copyright": "Copyright © 2026 by Seemly Fonts. All Rights Reserved.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Brandear",
+        "category": "Display / Decorative",
+        "main_font_file": "Brandear.ttf",
+        "variants": [
+          {
+            "file_name": "Brandear.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Brandear-Regular",
+            "version": "Version 1.000;August 25, 2026;FontCreator 15.0.0.3048 64-bit",
+            "designer": "Achmad Iswanjaya",
+            "copyright": "Copyright © 2026 by Funtype Co.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Cajiju",
+        "category": "Display / Decorative",
+        "main_font_file": "Cajiju.ttf",
+        "variants": [
+          {
+            "file_name": "Cajiju.ttf",
+            "style": "Book",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Cajiju",
+            "version": "Version 001.000",
+            "designer": "",
+            "copyright": "Astuti Studio | Studio Font (c) 2025, All rights reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Corpta DEMO",
+        "category": "Display / Decorative",
+        "main_font_file": "Corpta DEMO.otf",
+        "variants": [
+          {
+            "file_name": "Corpta DEMO.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "CorptaDEMO-Regular",
+            "version": "Version 1.000",
+            "designer": "Jamaludin Ahmad Sahestya Dharma",
+            "copyright": "Copyright © 2025 by Pandeka Studio. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Craze",
+        "category": "Display / Decorative",
+        "main_font_file": "Craze.otf",
+        "variants": [
+          {
+            "file_name": "Craze.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Craze-Regular",
+            "version": "Version 1.000;July 17, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Craze.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Craze-Regular",
+            "version": "Version 1.000;July 17, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Evil Roar",
+        "category": "Display / Decorative",
+        "main_font_file": "Evil Roar.otf",
+        "variants": [
+          {
+            "file_name": "Evil Roar.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "EvilRoar",
+            "version": "Version 1.00 September 26, 2026, initial release",
+            "designer": "",
+            "copyright": "Copyright © 2026 by Seemly Fonts. All Rights Reserved.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Evil Roar.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "EvilRoar",
+            "version": "Version 1.00 September 26, 2026, initial release",
+            "designer": "",
+            "copyright": "Copyright © 2026 by Seemly Fonts. All Rights Reserved.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Freaky",
+        "category": "Display / Decorative",
+        "main_font_file": "Freaky.otf",
+        "variants": [
+          {
+            "file_name": "Freaky.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Freaky-Regular",
+            "version": "Version 1.000;September 4, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Freaky Spooky",
+        "category": "Display / Decorative",
+        "main_font_file": "Freaky Spooky.otf",
+        "variants": [
+          {
+            "file_name": "Freaky Spooky.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "FreakySpooky",
+            "version": "Version 1.00;August 11, 2025",
+            "designer": "Dreamink",
+            "copyright": "Freaky Spooky © Dreamink. 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              6,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Genoid Demo",
+        "category": "Display / Decorative",
+        "main_font_file": "GenoidDemo-Bold.otf",
+        "variants": [
+          {
+            "file_name": "GenoidDemo-Bold.otf",
+            "style": "Bold",
+            "weight": 700,
+            "is_italic": false,
+            "postscript_name": "GenoidDemoBold",
+            "version": "Version 1.036;Fontself Maker 3.5.17",
+            "designer": "Furqan Sudirman, Muhammad Muammar, Marno Palangda'",
+            "copyright": "Limitype ©2026",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Gerstein",
+        "category": "Display / Decorative",
+        "main_font_file": "Gerstein-Regular.otf",
+        "variants": [
+          {
+            "file_name": "Gerstein-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Gerstein-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Gerstein-Italic.otf",
+            "style": "Italic",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Gerstein-Italic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Gondens DEMO",
+        "category": "Display / Decorative",
+        "main_font_file": "Gondens DEMO.otf",
+        "variants": [
+          {
+            "file_name": "Gondens DEMO.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "GondensDEMO-Regular",
+            "version": "Version 1.000",
+            "designer": "Jamaludin Ahmad Sahestya Dharma",
+            "copyright": "Copyright © 2025 by Pandeka Studio. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Grogol Demo",
+        "category": "Display / Decorative",
+        "main_font_file": "Grogol.otf",
+        "variants": [
+          {
+            "file_name": "Grogol.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "GrogolDemo-Regular",
+            "version": "Version 1.000",
+            "designer": "Panca Hasan",
+            "copyright": "Grogol © Drizy Font 2026",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Grogol.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "GrogolDemo-Regular",
+            "version": "Version 1.000",
+            "designer": "Panca Hasan",
+            "copyright": "Grogol © Drizy Font 2026",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Guby Bambam",
+        "category": "Display / Decorative",
+        "main_font_file": "GubyBambam-3D-SVG.otf",
+        "variants": [
+          {
+            "file_name": "GubyBambam-3D-SVG.otf",
+            "style": "3D",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "GubyBambam-3D",
+            "version": "Version 1.000",
+            "designer": "Muctype",
+            "copyright": "Copyright (c) 2025 by Muctype. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Happy Sunday DEMO",
+        "category": "Display / Decorative",
+        "main_font_file": "HappySunday-Regular.ttf",
+        "variants": [
+          {
+            "file_name": "HappySunday-Regular.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "HappySundayDEMO-Regular",
+            "version": "1.000",
+            "designer": "Fontliner",
+            "copyright": "Copyright (c) 2026 by Fontliner. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Haunted Dracula",
+        "category": "Display / Decorative",
+        "main_font_file": "Haunted Dracula.otf",
+        "variants": [
+          {
+            "file_name": "Haunted Dracula.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "HauntedDracula",
+            "version": "Version 1.00;July 12, 2025",
+            "designer": "Dreamink",
+            "copyright": "Haunted Dracula © Dreamink. 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              6,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Heathergreen",
+        "category": "Display / Decorative",
+        "main_font_file": "Heathergreen.otf",
+        "variants": [
+          {
+            "file_name": "Heathergreen.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Heathergreen",
+            "version": "Version 1.00 July 19, 2016, initial release",
+            "designer": "",
+            "copyright": "Heathergreen © Sharkshock 2016. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Insidia",
+        "category": "Display / Decorative",
+        "main_font_file": "Insidia.otf",
+        "variants": [
+          {
+            "file_name": "Insidia.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Insidia-Regular",
+            "version": "Version 1.000;August 28, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Isolated",
+        "category": "Display / Decorative",
+        "main_font_file": "Isolated.otf",
+        "variants": [
+          {
+            "file_name": "Isolated.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Isolated-Regular",
+            "version": "Version 1.000;September 2, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Kultum Ramadhan",
+        "category": "Display / Decorative",
+        "main_font_file": "Kultum Ramadhan.otf",
+        "variants": [
+          {
+            "file_name": "Kultum Ramadhan.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "KultumRamadhan",
+            "version": "Version 1.00;February 25, 2025;FontCreator 11.5.0.2427 64-bit",
+            "designer": "Muhamad Yusron Billah",
+            "copyright": "Kultum Ramadhan© (Sronstudio). 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Michero Demo",
+        "category": "Display / Decorative",
+        "main_font_file": "Michero Demo.otf",
+        "variants": [
+          {
+            "file_name": "Michero Demo.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "MicheroDemo-Regular",
+            "version": "Version 1.000",
+            "designer": "Dida Ahluddin",
+            "copyright": "Copyright (c) 2026 by ahweproject. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Mirosela",
+        "category": "Display / Decorative",
+        "main_font_file": "Mirosela.otf",
+        "variants": [
+          {
+            "file_name": "Mirosela.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Mirosela-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Mogn Konros",
+        "category": "Display / Decorative",
+        "main_font_file": "Mogn Konros.ttf",
+        "variants": [
+          {
+            "file_name": "Mogn Konros.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "MognKonros",
+            "version": "Version 1.000",
+            "designer": "Imoodev Type Designer",
+            "copyright": "(c) Imoodev. All Right Reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Moldie Demo",
+        "category": "Display / Decorative",
+        "main_font_file": "Moldie Demo.otf",
+        "variants": [
+          {
+            "file_name": "Moldie Demo.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "MoldieDemo-Regular",
+            "version": "Version 1.000",
+            "designer": "Dida Ahluddin",
+            "copyright": "Copyright (c) 2024 by ahweproject. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Monttee",
+        "category": "Display / Decorative",
+        "main_font_file": "Monttee.otf",
+        "variants": [
+          {
+            "file_name": "Monttee.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Monttee",
+            "version": "Version 1.000",
+            "designer": "Khurasan",
+            "copyright": "Copyright (c) 2026 by Khurasan. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Moralana",
+        "category": "Display / Decorative",
+        "main_font_file": "Moralana DEMO.otf",
+        "variants": [
+          {
+            "file_name": "Moralana DEMO.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Moralana",
+            "version": "Version 01.00",
+            "designer": "",
+            "copyright": "© 2025 Rahagita Studio. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Nivela",
+        "category": "Display / Decorative",
+        "main_font_file": "Nivela-Regular.otf",
+        "variants": [
+          {
+            "file_name": "Nivela-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Nivela",
+            "version": "Version 1.000;March 29, 2026;FontCreator 15.0.0.2955 64-bit",
+            "designer": "Rafis Type 2026",
+            "copyright": "Typeface © Rafis Type 2026. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Pillar",
+        "category": "Display / Decorative",
+        "main_font_file": "Pillar.otf",
+        "variants": [
+          {
+            "file_name": "Pillar.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Pillar-Regular",
+            "version": "Version 1.000;July 21, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Pillar.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Pillar-Regular",
+            "version": "Version 1.000;July 21, 2026;FontCreator 15.0.0.3014 64-bit",
+            "designer": "Pian45 Studio",
+            "copyright": "Copyright © 2026 by Pian45 Studio",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Priestacy",
+        "category": "Display / Decorative",
+        "main_font_file": "Priestacy.otf",
+        "variants": [
+          {
+            "file_name": "Priestacy.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Priestacy",
+            "version": "Version 1.00;January 3, 2022;FontCreator 11.5.0.2430 32-bit",
+            "designer": "Muhamad Yusron  Billah",
+            "copyright": "Priestacy©(Sronstudio). 2022. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Richale",
+        "category": "Display / Decorative",
+        "main_font_file": "Richale.ttf",
+        "variants": [
+          {
+            "file_name": "Richale.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Richale-Regular",
+            "version": "Version 1.001;Fontself Maker 3.5.20",
+            "designer": "Blankids Studio",
+            "copyright": "Richale Font by www.blankidsfonts.com 2026",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Road Sooned",
+        "category": "Display / Decorative",
+        "main_font_file": "RoadSooned-Regular.otf",
+        "variants": [
+          {
+            "file_name": "RoadSooned-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "RoadSooned-Regular",
+            "version": "Version 1.000;September 25, 2026;FontCreator 15.0.0.3042 64-bit",
+            "designer": "Bery Arisandi , Basnistudio",
+            "copyright": "Road Sooned© (Basnistudio). 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Rockybilly",
+        "category": "Display / Decorative",
+        "main_font_file": "Rockybilly.ttf",
+        "variants": [
+          {
+            "file_name": "Rockybilly.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Rockybilly",
+            "version": "Version 1.00;January 13, 2020;FontCreator 12.0.0.2547 64-bit",
+            "designer": "Letterara 2020",
+            "copyright": "Rockybilly © Letterara 2020. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Romista",
+        "category": "Display / Decorative",
+        "main_font_file": "Romista.otf",
+        "variants": [
+          {
+            "file_name": "Romista.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Romista",
+            "version": "Version 1.000;August 24, 2025;FontCreator 15.0.0.2955 64-bit",
+            "designer": "Biham Santoso",
+            "copyright": "Typeface © Aqeel Art 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "romista.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Romista",
+            "version": "Version 1.000;August 24, 2025;FontCreator 15.0.0.2955 64-bit",
+            "designer": "Biham Santoso",
+            "copyright": "Typeface © Aqeel Art 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Rostex",
+        "category": "Display / Decorative",
+        "main_font_file": "Rostex-Outline.otf",
+        "variants": [
+          {
+            "file_name": "Rostex-Outline.otf",
+            "style": "Outline",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Rostex-Outline",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-Outline.ttf",
+            "style": "Outline",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Rostex-Outline",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Rostex-Regular",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-Regular.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Rostex-Regular",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-Oblique.otf",
+            "style": "Oblique",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Rostex-Oblique",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-Oblique.ttf",
+            "style": "Oblique",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Rostex-Oblique",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-ObliqueOutline.otf",
+            "style": "Oblique Outline",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Rostex-ObliqueOutline",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Rostex-ObliqueOutline.ttf",
+            "style": "Oblique Outline",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Rostex-ObliqueOutline",
+            "version": "Version 1.000",
+            "designer": "Bakhrudin Ja'far",
+            "copyright": "Copyright (c) 2025 by Roomspace Creative Lab. All right reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Runethia",
+        "category": "Display / Decorative",
+        "main_font_file": "Runethia.otf",
+        "variants": [
+          {
+            "file_name": "Runethia.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Runethia",
+            "version": "Version 1.00;January 5, 2026;FontCreator 11.5.0.2427 64-bit",
+            "designer": "Muhammad Yusron Billah",
+            "copyright": "Runethia©(Sronstudio). 2026. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "RUSTY ATTACK DEMO",
+        "category": "Display / Decorative",
+        "main_font_file": "RUSTY ATTACK DEMO Regular.otf",
+        "variants": [
+          {
+            "file_name": "RUSTY ATTACK DEMO Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "RUSTYATTACKDEMO",
+            "version": "Version 1.000;March 28, 2022;FontCreator 14.0.0.2794 64-bit",
+            "designer": "Elbanadha Creative",
+            "copyright": "© Elbanadha Creative 2022. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Simple Callifornia",
+        "category": "Display / Decorative",
+        "main_font_file": "Simple Callifornia.otf",
+        "variants": [
+          {
+            "file_name": "Simple Callifornia.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "SimpleCalliforniaRegular",
+            "version": "Version 1.002;Fontself Maker 3.5.8",
+            "designer": "",
+            "copyright": "",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Skyvia Demo",
+        "category": "Display / Decorative",
+        "main_font_file": "SkyviaDemo-Bold.otf",
+        "variants": [
+          {
+            "file_name": "SkyviaDemo-Bold.otf",
+            "style": "Bold",
+            "weight": 700,
+            "is_italic": false,
+            "postscript_name": "SkyviaDemoBold",
+            "version": "Version 1.047;Fontself Maker 3.5.17",
+            "designer": "Furqan Sudirman, Muhammad Muammar, Marno Palangda'",
+            "copyright": "Limitype ©2026",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Slicey Heallow",
+        "category": "Display / Decorative",
+        "main_font_file": "Slicey Heallow.otf",
+        "variants": [
+          {
+            "file_name": "Slicey Heallow.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "SliceyHeallowRegular",
+            "version": "Version 1.001;Fontself Maker 3.5.13",
+            "designer": "Dhabee Studio©2026.",
+            "copyright": "Yumnacreative_Dhabee Studio©2026.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Slicey-Heallow.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "SliceyHeallowRegular",
+            "version": "Version 1.001;Fontself Maker 3.5.13",
+            "designer": "Dhabee Studio©2026.",
+            "copyright": "Yumnacreative_Dhabee Studio©2026.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Solvea",
+        "category": "Display / Decorative",
+        "main_font_file": "Solvea-Regular.otf",
+        "variants": [
+          {
+            "file_name": "Solvea-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Solvea-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Solvea-Italic.otf",
+            "style": "Italic",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Solvea-Italic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Transcity",
+        "category": "Display / Decorative",
+        "main_font_file": "Transcity DEMO.otf",
+        "variants": [
+          {
+            "file_name": "Transcity DEMO.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Transcity",
+            "version": "Version 1.000;PS 001.001;hotconv 1.0.56",
+            "designer": "Jamaludin Ahmad Sahestya Dharma",
+            "copyright": "Copyright (c) 2020 by dharmas Std. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Valortha",
+        "category": "Display / Decorative",
+        "main_font_file": "Valortha_DEMO.otf",
+        "variants": [
+          {
+            "file_name": "Valortha_DEMO.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Valortha-Regular",
+            "version": "Version 1.000",
+            "designer": "Artha",
+            "copyright": "Burntilldead - Illustrator and Typefoundry, All rights reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Valty DEMO",
+        "category": "Display / Decorative",
+        "main_font_file": "Valty DEMO.otf",
+        "variants": [
+          {
+            "file_name": "Valty DEMO.otf",
+            "style": "Bold Italic",
+            "weight": 700,
+            "is_italic": true,
+            "postscript_name": "ValtyDEMO-BoldItalic",
+            "version": "Version 1.000",
+            "designer": "",
+            "copyright": "",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Vestica",
+        "category": "Display / Decorative",
+        "main_font_file": "Vestica.otf",
+        "variants": [
+          {
+            "file_name": "Vestica.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "VesticaRegular",
+            "version": "Version 1.002;Fontself Maker 3.6.12",
+            "designer": "Ismunandar Rambe",
+            "copyright": "Typeface © BilahStudio. 2025. All Rights Reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Walkon",
+        "category": "Display / Decorative",
+        "main_font_file": "Walkon.ttf",
+        "variants": [
+          {
+            "file_name": "Walkon.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Walkon-Regular",
+            "version": "Version 1.000;August 24, 2026;FontCreator 15.0.0.3048 64-bit",
+            "designer": "Nurinto",
+            "copyright": "Copyright © 2026 by Funtype Co.",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Witch Muffins",
+        "category": "Display / Decorative",
+        "main_font_file": "Witch Muffins Font By Dreamink 7ntypes.otf",
+        "variants": [
+          {
+            "file_name": "Witch Muffins Font By Dreamink 7ntypes.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "WitchMuffins",
+            "version": "Version 1.00;August 11, 2025",
+            "designer": "Dreamink",
+            "copyright": "Witch Muffins © Dreamink. 2025. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              6,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "ZIA GlastyoDEMO",
+        "category": "Display / Decorative",
+        "main_font_file": "ZIAGlastyoDEMO-MediumItalic.ttf",
+        "variants": [
+          {
+            "file_name": "ZIAGlastyoDEMO-MediumItalic.ttf",
+            "style": "Medium Italic",
+            "weight": 500,
+            "is_italic": true,
+            "postscript_name": "ZIAGlastyoDEMO-MediumItalic",
+            "version": "Version 1.000",
+            "designer": "Zaidan Ibnu Akbar",
+            "copyright": "Copyright (c) 2026 by ZIA Creative Studio. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Zorden",
+        "category": "Display / Decorative",
+        "main_font_file": "Zorden Regular.otf",
+        "variants": [
+          {
+            "file_name": "Zorden Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Zorden",
+            "version": "Version 1.000;August 20, 2026;FontCreator 15.0.0.2974 64-bit",
+            "designer": "Asep Saefulloh",
+            "copyright": "Edgen ©Figuree Studio 2026. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Zorden Italic.otf",
+            "style": "Italic",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Zorden-Italic",
+            "version": "Version 1.000;August 20, 2026;FontCreator 15.0.0.2974 64-bit",
+            "designer": "Asep Saefulloh",
+            "copyright": "Edgen Italic ©Figuree Studio 2026. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      }
+    ],
+    "Handwriting / Script": [
+      {
+        "family_name": "No cursive allowed",
+        "category": "Handwriting / Script",
+        "main_font_file": "No cursive allowed.otf",
+        "variants": [
+          {
+            "file_name": "No cursive allowed.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "NocursiveallowedRegular",
+            "version": "Version 1.001;Fontself iOS v2.4",
+            "designer": "",
+            "copyright": "",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "World Brush - Personal Use",
+        "category": "Handwriting / Script",
+        "main_font_file": "WorldBrushDEMO.ttf",
+        "variants": [
+          {
+            "file_name": "WorldBrushDEMO.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "WorldBrushPersonalUse",
+            "version": "Version 1.00;September 27, 2026;FontCreator 12.0.0.2567 64-bit",
+            "designer": "Ahmad Afandi",
+            "copyright": "World Brush - Personal Use © Letterafa Studio 2021. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      }
+    ],
+    "Symbol / Icon": [
+      {
+        "family_name": "Awesome",
+        "category": "Symbol / Icon",
+        "main_font_file": "Awesome.otf",
+        "variants": [
+          {
+            "file_name": "Awesome.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "AwesomeRegular",
+            "version": "Version 1.194;Fontself Maker 3.5.7",
+            "designer": "Aveni Yuanita",
+            "copyright": "Copyrighted (c) 2022 By Aveni Letter Type (Aveni Yuanita /aveniyuanita.fontdesigner@gmail.com). All rights reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Awesome.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "AwesomeRegular",
+            "version": "Version 1.194;Fontself Maker 3.5.7",
+            "designer": "Aveni Yuanita",
+            "copyright": "Copyrighted (c) 2022 By Aveni Letter Type (Aveni Yuanita /aveniyuanita.fontdesigner@gmail.com). All rights reserved",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Bastliga One",
+        "category": "Symbol / Icon",
+        "main_font_file": "Bastliga One.otf",
+        "variants": [
+          {
+            "file_name": "Bastliga One.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "BastligaOne",
+            "version": "Version 1.00;June 11, 2022;FontCreator 13.0.0.2683 64-bit",
+            "designer": "",
+            "copyright": "Bastliga One © (Madhaline Studio). 2022. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              6,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Bastliga One.ttf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "BastligaOne",
+            "version": "Version 1.00;June 11, 2022;FontCreator 13.0.0.2683 64-bit",
+            "designer": "",
+            "copyright": "Bastliga One © (Madhaline Studio). 2022. All Rights Reserved",
+            "panose": [
+              2,
+              0,
+              6,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Casko Luxury Demo",
+        "category": "Symbol / Icon",
+        "main_font_file": "CaskoLuxuryDemo-Regular.otf",
+        "variants": [
+          {
+            "file_name": "CaskoLuxuryDemo-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "CaskoLuxuryDemo-Regular",
+            "version": "Version 1.000;Glyphs 3.2.3 (3260)",
+            "designer": "Sigit Dwipa Raharjo",
+            "copyright": "©2025 Nirmana Visual",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Clarity Signature",
+        "category": "Symbol / Icon",
+        "main_font_file": "Clarity Signature.otf",
+        "variants": [
+          {
+            "file_name": "Clarity Signature.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "ClaritySignature-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2025 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Mending",
+        "category": "Symbol / Icon",
+        "main_font_file": "Mending.otf",
+        "variants": [
+          {
+            "file_name": "Mending.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "MendingRegular",
+            "version": "Version 1.002;Fontself Maker 3.5.13",
+            "designer": "Murrofil Ngabit",
+            "copyright": "Copyright © 2025 by Brandsemut. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Orange Avenue DEMO",
+        "category": "Symbol / Icon",
+        "main_font_file": "OrangeAvenueDEMO-Regular.otf",
+        "variants": [
+          {
+            "file_name": "OrangeAvenueDEMO-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "OrangeAvenueDEMO-Regular",
+            "version": "Version 1.000;Glyphs 3.3.1 (3343)",
+            "designer": "Ratna Krismawati",
+            "copyright": "Copyright © 2022 by Ratna Krismawati. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Orange Avenue Outline DEMO",
+        "category": "Symbol / Icon",
+        "main_font_file": "OrangeAvenueOutlineDEMO-Regular.otf",
+        "variants": [
+          {
+            "file_name": "OrangeAvenueOutlineDEMO-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "OrangeAvenueOutlineDEMO-Regular",
+            "version": "Version 1.000;Glyphs 3.3.1 (3343)",
+            "designer": "Ratna Krismawati",
+            "copyright": "Copyright © 2022 by Ratna Krismawati. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Osttom",
+        "category": "Symbol / Icon",
+        "main_font_file": "Osttom.otf",
+        "variants": [
+          {
+            "file_name": "Osttom.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Osttom",
+            "version": "Version 1.000",
+            "designer": "Khurasan",
+            "copyright": "Copyright (c) 2026 by Khurasan. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Runiga",
+        "category": "Symbol / Icon",
+        "main_font_file": "Runiga.otf",
+        "variants": [
+          {
+            "file_name": "Runiga.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "RunigaRegular",
+            "version": "Version 1.002;Fontself Maker 3.5.13",
+            "designer": "Murrofil Ngabit",
+            "copyright": "Copyright © 2025 by Brandsemut. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Siovanni",
+        "category": "Symbol / Icon",
+        "main_font_file": "Siovanni-Regular.otf",
+        "variants": [
+          {
+            "file_name": "Siovanni-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "Siovanni-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          },
+          {
+            "file_name": "Siovanni-Italic.otf",
+            "style": "Italic",
+            "weight": 400,
+            "is_italic": true,
+            "postscript_name": "Siovanni-Italic",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2026 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Symphonie Calligraphy DEMO",
+        "category": "Symbol / Icon",
+        "main_font_file": "SymphonieCalligraphyDEMO-Regular.otf",
+        "variants": [
+          {
+            "file_name": "SymphonieCalligraphyDEMO-Regular.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "SymphonieCalligraphyDEMO-Regular",
+            "version": "Version 1.000;Glyphs 3.3.1 (3343)",
+            "designer": "Ratna Krismawati",
+            "copyright": "Copyright © 2025 by Krismagraph. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      },
+      {
+        "family_name": "Vintage Millenia",
+        "category": "Symbol / Icon",
+        "main_font_file": "Vintage Millenia.otf",
+        "variants": [
+          {
+            "file_name": "Vintage Millenia.otf",
+            "style": "Regular",
+            "weight": 400,
+            "is_italic": false,
+            "postscript_name": "VintageMillenia-Regular",
+            "version": "Version 1.000",
+            "designer": "Akhmad Reza Fauzi",
+            "copyright": "Copyright (c) 2025 by Akhmad Reza Fauzi. All rights reserved.",
+            "panose": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "is_fixed_pitch": false
+          }
+        ]
+      }
+    ]
+  }
+}
